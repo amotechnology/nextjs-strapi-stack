@@ -112,3 +112,12 @@ exports
 *.cache
 build
 .strapi-updater.json
+
+
+####################
+# Custom added by Olly
+####################
+frontend/.next
+backend
+frontend/out
+frontend/.eslintrc
